@@ -1,1 +1,18 @@
+############################################################################
+### Field Data Collected in 2017 and 2018 in Rondeau Bay Ontario Canada ####
+############################################################################
 
+#################################################################
+################# 2017 Data #####################################
+
+# 2017_Catch_Results.csv is a summary of number caught, tagged, and recaptured separated by sampling event, sample(site), and species
+# 2017_Fish_Data.csv is a breakdown of the fish total length (mm), weight (g), and floy tag
+# 2017_Site_Data.csv is a breakdown of start and end coordinates of sampling sample(site) as well as electrofishing sampling details (hz, % power, voltage, amps, and effort)
+# 2017_Tagged_Fish_Data.csv is a breakdown of tagged fish floy and acoustic tag number as well as survery details for tag implantation
+
+#################################################################
+################## 2018 Data ####################################
+
+# 2018_Catch_Results.csv is a summary of number caught, tagged, and recaptured separated by sampling event, sample(site), gear type, and species
+# 2018_Site_Data.csv is a breakdown of start and end coordinates of sampling sample(site) as well as electrofishing sampling details (hz, % power, voltage, amps, and effort)
+# 2018_Tagged_Fish_Data.csv is a breakdown of tagged fish floy and acoustic tag number as well as survery details for tag implantation
